@@ -1,0 +1,10 @@
+{
+    "Narrow by OS": [ "'os'", "'SteamOS + Linux'"],
+    "Narrow by number of players": ["'category3'", "'LAN Co-op'"],
+    "Narrow by tag": ["'tags'", "'Action'"],
+    "Game" : "Dota 2",
+    "Hero": "Lifestealer",
+    "Rarity": "Immortal",
+    "Search": "Golden",
+    "game_number": 1
+}
