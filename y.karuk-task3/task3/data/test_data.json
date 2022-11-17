@@ -1,0 +1,22 @@
+{
+    "User 1": {
+        "First_name" : "Jon",
+        "Last name" : "Snow",
+        "email" : "knownothing@gmail.com",
+        "age" : "30",
+        "Salary" : "3000",
+        "Department" : "alpha"
+    },
+    "User 2": {
+        "First_name" : "Buttercup",
+        "Last name" : "Cumbersnatch",
+        "email" : "BudapestCandygram@mail.io",
+        "age" : "41",
+        "Salary" : "2000",
+        "Department" : "beta"
+    },
+    "browser_chrome": "chrome",
+    "browser_firefox": "firefox",
+    "date_for_nearest_year" : [2, 28],
+    "date_for_test" : [2, 29]
+}
